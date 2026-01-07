@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fff;
+    padding: 10px 20px;
+}
+.logo {
+    display: flex;
+    align-items: center;
+    margin-left: 24px;
+}
+.logo-img {
+    height: 90px;
+    width: auto;
+    margin-top: 10px;
+}
